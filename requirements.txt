@@ -1,0 +1,12 @@
+python3.6
+tensorflow2.0
+models
+sklearn
+imutils
+matplotlib
+numpy
+argparse
+pickle
+cv2
+os
+time
